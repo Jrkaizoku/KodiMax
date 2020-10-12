@@ -1,0 +1,10 @@
+C:\Users\Jeny\source\repos\Kodimax\bin\Debug\Kodimax.exe.config
+C:\Users\Jeny\source\repos\Kodimax\bin\Debug\Kodimax.exe
+C:\Users\Jeny\source\repos\Kodimax\bin\Debug\Kodimax.pdb
+C:\Users\Jeny\source\repos\Kodimax\obj\Debug\Kodimax.csprojAssemblyReference.cache
+C:\Users\Jeny\source\repos\Kodimax\obj\Debug\Kodimax.csproj.CoreCompileInputs.cache
+C:\Users\Jeny\source\repos\Kodimax\obj\Debug\Kodimax.exe
+C:\Users\Jeny\source\repos\Kodimax\obj\Debug\Kodimax.pdb
+C:\Users\Jeny\source\repos\Kodimax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeny\source\repos\Kodimax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeny\source\repos\Kodimax\obj\Debug\Kodimax.csproj.CopyComplete
